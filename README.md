@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Class Project 
 
 You can use the [editor on GitHub](https://github.com/jhdatalab/IDoA/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
